@@ -1,2 +1,3 @@
 # Movie-Recommendation-System-using-Machine-Learning
-This is a Movie Recommendation Project which suggests you movies to watch based on the movie entered by you. The movies are recommended based on its content like genre, cast, director etc and its popularity.
+Nowadays, we are all familiar with famous OTT platforms like Netflix, Amazon Prime, Hulu etc. We love to binge watch our favorite movies and TV shows on these platforms. We finish watching our favorite show and these platforms immediately suggest more related shows we can watch next. Has it ever crossed your mind how these platforms recommend these shows and movies? 
+This is a Movie Recommendation Project which suggests you movies to watch based on the movie entered by you. The movies are recommended based factors like genre, cast, director etc and its popularity. It makes use of Machine Learning algorithm to enumerate movies and TV shows analogous to the one already picked.
